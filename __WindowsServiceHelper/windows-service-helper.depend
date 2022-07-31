@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1631352259 source:d:\c programming\windows service helper\main.c
+	"config.h"
+	"views.h"
+
+1631352529 d:\c programming\windows service helper\config.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"conio2.h"
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	<ctype.h>
+	<process.h>
+
+1386420876 source:d:\c programming\windows service helper\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 d:\c programming\windows service helper\conio2.h
+	<conio.h>
+	<windows.h>
+
+1631343110 d:\c programming\windows service helper\windows.c
+	"config.h"
+
+1631343110 source:d:\c programming\windows service helper\windows.c
+	"config.h"
+
+1631352633 d:\c programming\windows service helper\views.h
+
+1631353032 source:d:\c programming\windows service helper\views.c
+	"config.h"
+	"views.h"
+
+1386420876 source:d:\mp_ works\my dev projects\c programming\windows service helper\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 d:\mp_ works\my dev projects\c programming\windows service helper\conio2.h
+	<conio.h>
+	<windows.h>
+
+1631352259 source:d:\mp_ works\my dev projects\c programming\windows service helper\main.c
+	"config.h"
+	"views.h"
+
+1631352529 d:\mp_ works\my dev projects\c programming\windows service helper\config.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"conio2.h"
+	<string.h>
+	<time.h>
+	<winsock2.h>
+	<ctype.h>
+	<process.h>
+
+1631352633 d:\mp_ works\my dev projects\c programming\windows service helper\views.h
+
